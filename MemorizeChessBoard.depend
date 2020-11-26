@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1606145454 source:c:\users\hamza\google drive\hamza\coding\memorizechessboard\main.c
+1606145496 source:c:\users\hamza\google drive\hamza\coding\memorizechessboard\main.c
 	<stdio.h>
 	<stdlib.h>
 	<windows.h>
